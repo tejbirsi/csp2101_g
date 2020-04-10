@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#Tejbir Singh
+#10482218
 # this generates a random number between 20 and 70 and assigns it to age
 age=$(( RANDOM %(70-20  +1) +20))
 
